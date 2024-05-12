@@ -8,6 +8,10 @@
   <remote  name="private"
            fetch="ssh://git@github.com" />
 
+  <remote  name="HorizonDroidLab"
+           fetch="https://github.com/HorizonDroidLab"
+           revision="refs/heads/14" />
+
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="android-review.googlesource.com"
